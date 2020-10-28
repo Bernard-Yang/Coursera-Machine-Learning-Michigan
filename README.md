@@ -1,2 +1,1 @@
-# Coursera-Machine-Learning-Michigan
-# Coursera-Machine-Learning-Michigan
+# Assignments of Coursera-Machine-Learning-Michigan
